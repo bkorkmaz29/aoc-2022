@@ -2,6 +2,8 @@ f = open("input.txt", "r")
 
 Lines = f.readlines()
 
+# Part 1
+
 def score(plays):
     points = 0
 
